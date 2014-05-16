@@ -1,0 +1,4 @@
+Lightbox
+========
+
+Simple lightbox script
